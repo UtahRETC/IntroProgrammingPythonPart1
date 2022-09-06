@@ -1,0 +1,14 @@
+#!/bin/bash
+
+input="$1"
+output="$2"
+
+if [ ! -f "$input" ]; then
+  echo "error: <inpput> file not found ('$input')"
+  exit 1
+elif [ -z "$output" ]; then
+  echo "error: missing <output> argument"
+  exit 1
+fi
+
+marp --pdf "$input" --allow-local-files --theme style-slide.css --html true --output "$output"
