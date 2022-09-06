@@ -11,4 +11,9 @@ elif [ -z "$output" ]; then
   exit 1
 fi
 
-marp --pdf "$input" --allow-local-files --theme style-slide.css --html true --output "$output"
+marp "$input" \
+  --allow-local-files \
+  --theme assets/slide-styles.css \
+  --html true \
+  --pdf true \
+  --output "$output"

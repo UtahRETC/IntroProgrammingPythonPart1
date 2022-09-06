@@ -14,14 +14,7 @@ fi
 pandoc "$input" \
   --resource-path="$(dirname "$input")" \
   --from markdown-smart \
-  --highlight-style=style-document.theme \
-  -V mainfont="Baskerville Regular" \
-  -V monofont="IBM Plex Mono Regular" \
-  -V colorlinks=true \
-  -V linkcolor=blue \
-  -V urlcolor=blue \
-  -V anchorcolor=blue \
-  -V toccolor=gray \
-  -V geometry="margin=3.5cm" \
-  -V linestretch="1.1" \
+  --highlight-style=assets/document-theme.theme \
+  -H assets/document-header.tex \
+  -V linkcolor=Blue \
   -o "$output"
