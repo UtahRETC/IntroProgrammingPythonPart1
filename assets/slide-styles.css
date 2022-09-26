@@ -73,6 +73,11 @@ p.narrower,
   margin: 0 auto 0 auto;
 }
 
+.center {
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
 .pt1 { padding-top: 1rem; }
 .pb1 { padding-bottom: 1rem; }
 .tal { text-align: left; }

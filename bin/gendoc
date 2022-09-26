@@ -4,7 +4,7 @@ input="$1"
 output="$2"
 
 if [ ! -f "$input" ]; then
-  echo "error: <inpput> file not found ('$input')"
+  echo "error: <input> file not found ('$input')"
   exit 1
 elif [ -z "$output" ]; then
   echo "error: missing <output> argument"
