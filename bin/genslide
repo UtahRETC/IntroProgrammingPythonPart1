@@ -13,7 +13,7 @@ fi
 
 marp "$input" \
   --allow-local-files \
-  --theme assets/slide-styles.css \
+  --theme assets/slide-styles.marp \
   --html true \
   --pdf true \
   --output "$output"
