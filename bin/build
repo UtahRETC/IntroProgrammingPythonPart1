@@ -6,15 +6,7 @@ IFS=$(echo -en "\n\b")
 for input in $(find units -type f -not -name Overview.md -name '*.md')
 do
   echo -n "Generating '$input' ... "
-
-  case $(basename $input) in
-    Slides.md)
-      bin/genslide "$input" "${input%.md}.pdf" &> /dev/null
-      ;;
-    *)
-      bin/gendoc "$input" "${input%.md}.pdf"
-      ;;
-  esac
+  bin/gen "$input" "${input%.md}.pdf" &> /dev/null
   echo "done"
 done
 
