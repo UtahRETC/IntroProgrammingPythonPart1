@@ -42,11 +42,6 @@ execute it whenever needed.
 In this unit we will start learning about web technologies that are used to
 build webpages and web applications.
 
-### Unit 90: Tic Tac Toe Web App
-
-Create a web application using Flask and HTML that lets you play Tic Tac Toe
-against another player.
-
 ### Unit 99: Next steps
 
 What should I do to continue improving my programming skills?
