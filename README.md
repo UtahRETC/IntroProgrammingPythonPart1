@@ -1,4 +1,4 @@
-# Introduction to Programming with Python
+# Introduction to Programming with Python, part 1
 
 ## Requirements
 
