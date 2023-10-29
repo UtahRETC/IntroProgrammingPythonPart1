@@ -37,10 +37,11 @@ in which we can solve problems with programming.
 In this unit we'll cover functions. Functions allow us to reuse our code and
 execute it whenever needed.
 
-### Unit 10: Web Programming
+### Unit 6: Dictionaries
 
-In this unit we will start learning about web technologies that are used to
-build webpages and web applications.
+Compare dictionaries to lists as a data structure for storing data. Compare
+uses and benefits of a dictionary vs. a list. When would someone reach for a
+dictionary as opposed to a list?
 
 ### Unit 99: Next steps
 

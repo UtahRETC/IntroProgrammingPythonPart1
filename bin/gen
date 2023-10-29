@@ -12,7 +12,7 @@ elif [ -z "$output" ]; then
 fi
 
 case $(basename "$input") in
-  Slides.md)
+  *Slides.md)
     marp "$input" \
       --allow-local-files \
       --theme assets/slide-styles.marp \
