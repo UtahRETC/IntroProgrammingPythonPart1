@@ -90,11 +90,11 @@ It's for anyone that is interested in learning how to program.
 <span class="centered wider">
 
 - We meet Monday and Thursday
-- Mondays we meet on Zoom
-- Thursdays we meet at the Refugee Center
+- Mondays we meet at the Refugee Center
+- Thursdays we meet on Zoom
 - Class starts at 6pm and ends at 7:30pm
 - This course lasts 16 weeks
-- Last day of class is December 15th
+- Last day of class is March 14th
 
 </span>
 
@@ -152,6 +152,32 @@ You should have received an invitation to Slack and to Canvas. Create your accou
 
 ---
 
+## ChatGPT And Similar Tools
+
+ChatGPT, is a new type of software tool called an LLM (short for large language model). You interact with it in a conversational manner. It uses machine learning to understand and generate human-like responses based on the input it receives
+
+---
+
+## ChatGPT
+
+You can use ChatGPT to
+
+- **Explain Concepts**: ChatGPT can break down complex Python programming concepts into easier-to-understand explanations.
+- **Provide Examples**: It can generate examples of Python code to illustrate how certain functions or structures work.
+- **Answer Questions**: If you have specific questions about Python or coding in general, ChatGPT can provide answers or guide you to resources for further learning.
+
+---
+
+### Responsible Use
+
+**Not a Replacement for Doing**: While ChatGPT is helpful, *it should not be used to complete your programming assignments*. The goal of this course is to build your own coding skills, which requires hands-on practice and problem-solving.
+
+**The true value of this course comes from applying what you learn through your own coding efforts**. ChatGPT should be used responsibly to complement your studies, not replace the invaluable experience of learning by doing.
+
+If you use ChatGPT to assist with your coursework, we ask that you include your conversation/transcript with your submission.
+
+---
+
 ## Visual Studio Code
 
 Visual Studio Code, or VS Code, is a text editor. A text editor is a tool used to write code.
@@ -172,8 +198,8 @@ Let's talk about the concepts we'll learn about in the class.
 - Loops
 - Conditionals
 - Functions
-- Classes
-- Modules
+- Dictionaries
+- Lists
 - And more
 
 </span>
@@ -256,10 +282,8 @@ This course is divided into sections, each covering a new concept. Each section 
 4. Loops, lists and hashes
 5. Functions
 6. File IO
-7. Classes
-8. Modules
-9. Using third-party code
-10. Error handling
+7. Dictionaries
+8. And more
 
 </span>
 
