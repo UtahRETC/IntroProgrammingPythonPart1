@@ -13,13 +13,12 @@ _Meetup is a social media platform for hosting and organizing in-person and virt
 Meetups are a great way to connect with other members of the programming community. Check out meetup.com to find near by and online groups that you're interested in. Here's a few Python groups and their upcoming meetings:
 
 [The Tech Academy SLC Community](https://www.meetup.com/techacademyslc/), _This is a group for anyone interested in software development and web development. The Tech Academy is a code school located in Portland, OR and online at www.learncodinganywhere.com. Anyone is welcome! _
-- December 21 at 2:30 PM MST: [Intro to Python](https://www.meetup.com/techacademyslc/events/290067843/)
-- December 22 at 2:30 PM MST: [Intro to JavaScript & HTML](https://www.meetup.com/techacademyslc/events/290068297/)
 
-[Redmond Python](https://www.meetup.com/redmond-python-user-group/), _This is a group for anyone who is interested in learning more about the Python programming language. Absolute beginners and seasoned experts are welcome!_
-- December 15 at 7:30 PM MST (**today!!!**): [Command Line Fundamentals](https://www.meetup.com/redmond-python-user-group/events/290302690/), _Learning the basics of the command line is an important skill to have when developing with Python. Join this free workshop to learn the basics of the Bash shell which is commonly used on Linux/Mac and even on Windows with the Windows Subsystem for Linux (or WSL)._
+[Salt Lake City Python](https://www.meetup.com/slcpython/), _A Salt Lake City-based Python web developer meetup [...] We meet on the first Wednesday of each month (barring holidays, in which case we move to the 2nd Wednesday) at the INSCC building at the University of Utah._
 
-[San Diego Python Users Group](https://www.meetup.com/pythonsd/), _Are you a Python or Django developer? Are you interested in meeting other developers? Join the San Diego Python Users Group meetup! All skill levels are welcome._
+[Python at the Point](https://www.meetup.com/pythonatthepoint/), _Python at the Point meets in Lehi, halfway between Salt Lake City and Provo on the second Thursday of the month at high noon (12pm)._
+
+[Salt Lake PyLadies](https://www.meetup.com/salt-lake-pyladies/), _We are the Salt Lake City chapter of an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community._
 
 # Tutorials and walkthroughs
 
