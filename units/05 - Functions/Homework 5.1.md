@@ -15,7 +15,7 @@ For each of the following fragments of code in this section, select the block/li
         print("You are old enough")
     ```
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `if` statement on line 1.
     a) None of the above.
 \vspace{0.4in}
@@ -28,7 +28,7 @@ For each of the following fragments of code in this section, select the block/li
             print("You are old enough")
     ```
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `while` statement on line 1.
     a) None of the above.
 \vspace{0.4in}
@@ -41,7 +41,7 @@ For each of the following fragments of code in this section, select the block/li
             print("You are old enough")
     ```
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `while` statement on line 1.
     a) The `if` statement on line 2.
     a) None of the above.
@@ -55,7 +55,7 @@ For each of the following fragments of code in this section, select the block/li
             print("You are old enough")
     ```
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `show_message` function on line 1.
     a) None of the above.
 \vspace{0.4in}
@@ -71,7 +71,7 @@ For each of the following fragments of code in this section, select the block/li
         print("You are old enough")
     ```
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `show_message` function on line 1.
     a) None of the above.
 
@@ -94,7 +94,7 @@ def search_files(search_text, files):
 
 6) What block of code does the `return` statement belong to?
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `search_files` function on line 1.
     a) The `for` loop on line 3.
     a) The `if` statement on line 4.
@@ -103,7 +103,7 @@ def search_files(search_text, files):
 
 1) What block of code would the `return` statement belong to if it was indented to the right by one level?
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `search_files` function on line 1.
     a) The `for` loop on line 3.
     a) The `if` statement on line 4.
@@ -112,7 +112,7 @@ def search_files(search_text, files):
 
 1) What block of code would the `return` statement belong to if it was indented to the right by two levels?
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `search_files` function on line 1.
     a) The `for` loop on line 3.
     a) The `if` statement on line 4.
@@ -121,11 +121,11 @@ def search_files(search_text, files):
 
 1) What block of code does the `found_files` declaration on line 2 belong to?
 \vspace{0.1in}
-    a) The top / global scope.
+    a) The global scope.
     a) The `search_files` function on line 1.
     a) The `for` loop on line 3.
     a) The `if` statement on line 4.
     a) None of the above.
 \vspace{0.3in}
 
-1) Using your own words, explain when the `found_files` variable is declared (created).
+1) Using your own words, explain when the `found_files` variable is declared. In other words, when is the variable _created_?
