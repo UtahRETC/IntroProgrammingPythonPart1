@@ -7,7 +7,7 @@ Go over variables and why they're useful, numbers, strings, booleans, as well as
 
 Introduce reading user input and printing to the screen since this will be used in the homework. Show how comments work and how to use them. Run all samples during class.
 
-Possible homework is to write a program that accepts user input and performs some soft of calculation which is then printed to the screen. Try to incorporate casting. If casting is used in the homework, make sure to introduce it in class.
+Possible homework is to write a program that accepts user input and performs some sort of calculation which is then printed to the screen. Try to incorporate casting. If casting is used in the homework, make sure to introduce it in class.
 
 This will students will submit a coding assignment, so make sure to go over what is expected:
 - A `.py` file should be submitted.
