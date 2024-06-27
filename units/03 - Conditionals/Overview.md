@@ -9,3 +9,9 @@ Start with a review of boolean logic and logic operators then move into conditio
 
 - [[Number guessing game (part 1)]]
 - [[Wordle (part 1)]]
+
+# In class exercises
+
+- Print a message when a number is greater than 10
+    - Less than 16, you can't drive.
+- Update the exercise to accept user input
