@@ -9,6 +9,8 @@ Your job is to write a program that asks the user for the price, then calculates
 
 \vspace{.2in}
 
+**Examples**
+
 ```text
 Enter the price: 110
 The final price is $99.
