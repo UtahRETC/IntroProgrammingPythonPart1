@@ -3,15 +3,25 @@ unit: 3
 overview: "We'll be learning about conditionals which will allow us to write programs that perform different actions depending on a set of conditions that you specify. We'll take this as a chance to review boolean operations."
 ---
 
-Start with a review of boolean logic and logic operators then move into conditionals (`if` statements, including `if`, `elif`, and `else`). We're diving more into the syntax of Python, so talk about whitespace sensitivity. Also talk about code blocks and how to identify if code "belongs" to an if statement. 
+Start with a review of boolean logic and logic operators then move into conditionals (`if` statements, including `if`, `elif`, and `else`). We're diving more into the syntax of Python, so talk about whitespace sensitivity. Also talk about code blocks and how to identify if code "belongs" to an if statement.
 
 # Homework
 
 - [[Number guessing game (part 1)]]
+- [[Stop light simulator]]
+- [[Even or odd]]
+- [[Discount calculator]]
 - [[Wordle (part 1)]]
+- [[Rock Paper Scissors]]
 
 # In class exercises
 
-- Print a message when a number is greater than 10
-    - Less than 16, you can't drive.
-- Update the exercise to accept user input
+## Can you get a license?
+
+## Percentage to letter grade
+
+## Budgeting exercise
+
+## Guess the number exercise
+
+## Login with username and password checks exercise
