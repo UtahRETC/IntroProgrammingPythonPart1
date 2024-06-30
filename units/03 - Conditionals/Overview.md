@@ -20,6 +20,18 @@ Start with a review of boolean logic and logic operators then move into conditio
 
 ## Percentage to letter grade
 
+Write a program to ask the user to enter a score then tell them their grade. If
+the score is between 100 to 90, print "you have an A". For score between 89 to
+80, print "You have a B". For a score between 79 to 70, print "You have a C".
+For a score of 70 or lower, print "You have a D".
+
+Example:
+
+```
+Please enter a score: 85
+You have a B
+```
+
 ## Budgeting exercise
 
 ## Guess the number exercise
