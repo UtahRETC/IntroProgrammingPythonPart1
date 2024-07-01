@@ -16,7 +16,7 @@ statement.
 - [[Even or odd]]
 - [[Discount calculator]]
 - [[Wordle (part 1)]]
-- [[Rock Paper Scissors]]
+- [[Rock paper scissors]]
 
 # In class exercises
 
