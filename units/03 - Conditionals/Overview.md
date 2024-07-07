@@ -48,4 +48,24 @@ correct!". Otherwise, print "Better luck next time".
 For extra credit, use the `random.randint` function to generate a number to
 guess instead of using a hardcoded solution.
 
-## Login with username and password checks exercise
+## Guess the number with range check exercise
+
+Write "Guess the number" but first check the user provided a guess that is
+between 1 and 10. If it's not, print "That's an invalid guess".
+
+## Login with username and password simulation exercise
+
+Write a program that simulates a user logging into their computer.
+
+First prompt the user for a username. Compare the username provided by the user
+with a username of your choice. If the username does not match, print "Unknown
+user".
+
+If the username does match, prompt the user for a password. Then compare the
+password provided by the user with a password of your choice. If the password
+matches, then print "Access granted", otherwise, print "Access denied".
+
+# Movie ticket price exercise
+
+Prompt for an age and a time, then follow the pricing in "Movie ticket price
+chart.csv" and show the user the price for a ticket.

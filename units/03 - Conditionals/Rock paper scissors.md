@@ -4,21 +4,22 @@ unit: 3
 ---
 
 We will be creating a program that lets two players play rock, paper, scissors.
-Your program will prompt the first player, player 1, to enter their movie
+Your program will prompt the first player, player 1, to enter their move
 (either rock, paper, or scissors), and then prompt the second player, player 2,
 to enter their move.
 
-Using the rules of rock, paper, scissors, your program will determine and print
-the results of the game. If it's a tie, your program should print "It's a tie".
-If player 1 wins, prints "Player 1 wins". And if player 2 wins, print "Player 2
-wins".
+Using the rules of rock, paper, scissors (which are explained below), your
+program will determine and print the results of the game. If it's a tie, your
+program should print "It's a tie". If player 1 wins, prints "Player 1 wins".
+And if player 2 wins, print "Player 2 wins".
 
 The rules of rock, paper, scissors are as follow:
 
 - Rock beats scissors.
 - Scissors beats paper.
 - Paper beats rock.
-- If both players choose the same move (eg. both choose rock), it's a tie.
+- If both players choose the same move (for example, if both choose rock), it's
+  a tie.
 
 
 \vspace{.2in}
