@@ -12,6 +12,6 @@ Note that the questions in this assignment all build on each other and a later q
 
 3. Write the code to access the second item in the `numbers` list.
 
-<!-- 3. Write the code to add the number `20` to the `numbers` list. -->
+4. Write the code to add the number `20` to the `numbers` list.
 
 <!-- 5. Write the code to delete the third item in the `numbers` list. -->
