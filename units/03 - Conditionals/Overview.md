@@ -69,3 +69,6 @@ matches, then print "Access granted", otherwise, print "Access denied".
 
 Prompt for an age and a time, then follow the pricing in "Movie ticket price
 chart.csv" and show the user the price for a ticket.
+
+Implement using nested conditionals, then switch using a flat set of
+conditionals but with complex conditions.
