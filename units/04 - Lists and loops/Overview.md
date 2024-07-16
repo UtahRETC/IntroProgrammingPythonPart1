@@ -3,11 +3,11 @@ unit: 4
 overview: "Introduction to lists and loops. With this complexity comes new creative ways in which we can solve problems with programming."
 ---
 
+Start with lists, then `for` loops` (mention `range`), then `while` loops, then `break` and `continue`.
+
 Review the uses of list values. Go over how to break out of a loop and skip an iteration.
 
 Since this is starting to get into the syntax of Python, make sure to point out to students the requirements of indentation and in general the importance of. Go over `while` then `for` loops.
-
-Introduce the `range` function after talking about lists.
 
 - While loop
 - For loop
@@ -51,4 +51,12 @@ while row < 10:
 - [[Battleship]]
 - [[Hangman (part 1)]]
 - [[Dealing Deck]]
-- [[Problem set 2]]
+- [[Lists problem set 1]]
+
+
+# Exercises
+
+- Create a list with the names of every member of your family including yourself.
+- Using the access operator, print your name from the list created in the previous exercise.
+- Create a list with the ages of every member of your family including yourself.
+- Using the list access operator, increment the value of your age by 1.
