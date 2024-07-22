@@ -1,5 +1,5 @@
 ---
-title: Wordle (part 3)
+title: Wordle (part 2)
 unit: 4
 ---
 
