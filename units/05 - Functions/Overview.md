@@ -38,3 +38,12 @@ users = [
 - Tic Tac Toe (part 2)
 - [[Blackjack]]
 - [[Problem set 3]]
+
+# Exercises
+
+- Print greeting
+- Return greeting
+- Multiply numbers
+- Square numbers using multiply function
+- Is disivible by function used in FizzBuzz
+- Low/high temperature with user input conversion
