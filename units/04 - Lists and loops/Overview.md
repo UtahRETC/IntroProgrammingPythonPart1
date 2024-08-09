@@ -11,7 +11,7 @@ Since this is starting to get into the syntax of Python, make sure to point out 
 
 - While loop
 - For loop
-- Lists, append, pop, del, len
+- Lists, append, pop, len
 - For loop with lists
 - Continue / break
 
