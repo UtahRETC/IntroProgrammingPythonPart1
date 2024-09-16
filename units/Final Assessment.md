@@ -1,6 +1,6 @@
 ---
 title: Introduction to Programming with Python
-subtitle: Final Test
+subtitle: Final Assessment
 ---
 
 1. Which of the following is a valid variable name in Python?
