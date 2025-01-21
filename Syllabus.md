@@ -1,5 +1,5 @@
 ---
-title: Introduction to Programming with class syllabus
+title: Introduction to Programming class syllabus
 ---
 
 \bgroup
@@ -17,7 +17,7 @@ title: Introduction to Programming with class syllabus
 \end{center}
 \egroup
 
-\vspace{.2in}
+\vspace{.3in}
 
 ## Overview
 
@@ -31,9 +31,15 @@ Homework assignments will be assigned every week. Assignments should be submitte
 
 Most class periods will involve in class exercises that you are expected to participate in and will be graded on.
 
+## Assessments and final exam
+
+There will be an assessment at the end of every unit and a final exam at the end of the class.
+
 ## Grade requirements
 
-A minimum of 70% is required to pass this class. There are no tests or quizzes, grades are 100% based on homework assignments and in class exercises.
+A minimum of 70% is required to pass this class. Your grade will be made up of a combination of the homework, unit assess, and final exam.
+
+\pagebreak
 
 \begin{multicols}{2}
 \subsection{How can you succeed in this class?}
@@ -58,8 +64,6 @@ A minimum of 70% is required to pass this class. There are no tests or quizzes, 
 \end{itemize}
 \end{multicols}
 
-
-\pagebreak
 
 ## Outline *
 
