@@ -94,7 +94,6 @@ It's for anyone that is interested in learning how to program.
 - Thursdays we meet at the Refugee Center
 - Class starts at 6pm and ends at 7:30pm
 - This course lasts 16 weeks
-- Last day of class is December 15th
 
 </span>
 
