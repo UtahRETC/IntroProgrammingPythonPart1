@@ -90,10 +90,9 @@ It's for anyone that is interested in learning how to program.
 <span class="centered wider">
 
 - We meet Monday and Thursday
-- Mondays we meet on Zoom
-- Thursdays we meet at the Refugee Center
+- Mondays we meet at the Refugee Center
+- Thursdays we meet on Zoom
 - Class starts at 6pm and ends at 7:30pm
-- This course lasts 16 weeks
 
 </span>
 
