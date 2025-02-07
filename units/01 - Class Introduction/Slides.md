@@ -104,7 +104,7 @@ Let's talk about the tools we'll use in the class.
 
 ## Zoom
 
-Monday meetings will be held over Zoom.
+Thursday classes will be held over Zoom.
 
 ---
 
